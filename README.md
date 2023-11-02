@@ -9,7 +9,7 @@ git clone https://github.com/nimitmore27/heart-disease-prediction-flask.git
 
 cd heart-disease-prediction-flask
 ```
-2. Setup Environment (Optional)
+2. Setup Environment (Optional) <br>
   a. Install Virtual Environment
   ```bash
   pip install virtualenv
