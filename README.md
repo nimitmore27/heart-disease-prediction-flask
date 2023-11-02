@@ -10,18 +10,18 @@ git clone https://github.com/nimitmore27/heart-disease-prediction-flask.git
 cd heart-disease-prediction-flask
 ```
 2. Setup Environment (Optional)
-a. Install Virtual Environment
-```bash
-pip install virtualenv
-```
-b. Create Environment
-```bash
-virtualenv env
-```
-c. Activate Environment
-```bash 
-.\env\Scripts\activate
-```
+  a. Install Virtual Environment
+  ```bash
+  pip install virtualenv
+  ```
+  b. Create Environment
+  ```bash
+  virtualenv env
+  ```
+  c. Activate Environment
+  ```bash 
+  .\env\Scripts\activate
+  ```
 3. Install Required Python Packages 
 ```bash
 pip install -r requirements.txt
